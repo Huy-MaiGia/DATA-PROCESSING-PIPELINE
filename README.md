@@ -1,8 +1,8 @@
-⚙️ # AUTOMATED-DATA-PROCESSING-PIPELINE
-Streamlining Data Transformation: From Uncleaned Excel Records to Uniform Audit Formats.
+⚙️ #DATA-PROCESSING-PIPELINE
+Data Transformation: From Uncleaned Excel Records to Uniform Audit Formats.
 
 📖 Project Overview
-In corporate environments, data arrives in fragmented Excel sheets that require specific "Actions" (like DELETEADD) before they can be uploaded to a master registry. This project provides a Python-based automation pipeline that reads raw company data, identifies interview records, and generates a multi-sheet output formatted for high-accuracy data migration.
+In corporate environments, data arrives in fragmented Excel sheets that require specific "Actions" (like DELETEADD) before they can be uploaded to a master registry. This project provides a Python-based ETL pipeline that reads raw company data, identifies interview records, and generates a multi-sheet output formatted for high-accuracy data migration.
 
 🛠️ Tools & Technologies
 Language: Python 3.x
